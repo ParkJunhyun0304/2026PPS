@@ -27,7 +27,7 @@ public:
         // cout << s_result.size() << " | " << t_result.size() << endl;
 
         // for(int i=0; i<s_result.size(); i++) cout << s_result[i] << " / ";
-        // cout << endl;
+        // co4ut << endl;
         // for(int i=0; i<t_result.size(); i++) cout << t_result[i] << " / ";
 
         if(s_result.size() != t_result.size()) {
